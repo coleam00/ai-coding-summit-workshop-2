@@ -2,6 +2,8 @@
 
 **AI Coding Summit 2026 Workshop** | March 3, 2026 | 2 Hours
 
+![Building Complex Codebases with AI Coding Assistants](AICodingWithLargeCodebases.png)
+
 A hands-on workshop on agentic coding - how to delegate all coding to an AI agent while staying in the driver's seat. No vibe coding. You'll learn a structured system where every mistake the agent makes is an opportunity to improve the system itself, making your coding agent more reliable over time.
 
 ## What You'll Learn
